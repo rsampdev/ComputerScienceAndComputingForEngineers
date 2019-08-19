@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/rodneysampsonii/Code/Workspaces/Computer Science & Computing for Engineers/CSCI 1371/.metadata/.plugins/org.eclipse.jdt.core
+2585418274.index
+2823199982.index
+827313492.index
+3655271137.index
+1179188674.index
